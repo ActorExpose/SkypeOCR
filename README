@@ -1,0 +1,32 @@
+SkypeOCR
+==================
+
+Is a Proof Of Concept (POC),  that demonstrates the ease with which a robot is able to get skype mass emails, user names, pictures and user locations without any kind of validation or privileges.
+
+Requeriments to test this: 
+
+Windows 7.
+Skype Client.
+Visual Studio 2012.
+C# + WinAPI Knowledge to undertand.
+
+Note:
+
+This a VS Project https://github.com/JhetoX/SkypeOCR/tree/master/Net
+
+This is a Proof Of Concept (POC), is not a tool for collect emails for SPAM.
+
+This POC was developed by me: Jheto Xekri
+
+You can contact me in:
+
+Profile web: http://about.me/jheto.xekri
+or by Email: jheto.xekri@outlook.com
+or by Whatsapp: +573122844198
+or by Viber: +573122844198
+or by Skype: jheto.xekri
+
+Donations:
+
+Coinbase: 1NzDu9iuZJPbsyQJxMFtk4YfWPMyVgNea1
+Paypal: jheto.xekri@outlook.com
